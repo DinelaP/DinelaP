@@ -12,3 +12,4 @@
 - Backend: Node.js, .NET
 - Alati: Git, GitHub, Postman, Docker (osnovno)
 
+
